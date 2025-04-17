@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: Arial,  sans-serif;
+}
+.banner{
+    background-color:#C14600;
+    padding: 30px;
+    font-size: 32px;
+    font-weight: bold;
+   
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.navbar{
+    text-align: center;
+    background-color: #D2A05B;
+    padding: 15px;}
+.navbar a{
+    color: green;
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.content{
+    background-color: #D2A05B;
+    padding: 30px;
+}
+.content h2{
+    color: black;
+}
+.content p{
+    color: #4B1D06;
+
+}
+
